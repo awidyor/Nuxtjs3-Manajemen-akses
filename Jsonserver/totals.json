@@ -1,0 +1,98 @@
+{
+  "totalMasuk": [
+    {
+      "id": 1,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "id": 2,
+      "jenis": "FaceID",
+      "jabatan": "Manager",
+      "timestamp": "2023-12-01T09:30:00"
+    },
+    {
+      "id": 3,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "id": 4,
+      "jenis": "Fingerprint",
+      "jabatan": "OB",
+      "timestamp": "2023-12-01T17:00:00"
+    },
+    {
+      "id": 5,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "id": 6,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "count": 6
+    },
+    {
+      "jenis": "FaceID",
+      "jabatan": "Supervisor",
+      "timestamp": "2023-12-01T10:00:00",
+      "id": 7
+    },
+    {
+      "jenis": "FaceID",
+      "jabatan": "Supervisor",
+      "timestamp": "2023-12-01T10:00:00",
+      "id": 8
+    },
+    {
+      "jenis": "FaceID",
+      "jabatan": "OB",
+      "timestamp": "2023-12-01T10:00:00",
+      "id": 9
+    },
+    {
+      "jenis": "FaceID",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T10:00:00",
+      "id": 10
+    }
+  ],
+  "totalKeluar": [
+    {
+      "id": 1,
+      "jenis": "Fingerprint",
+      "jabatan": "OB",
+      "timestamp": "2023-12-01T17:00:00"
+    },
+    {
+      "id": 2,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "id": 3,
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00"
+    },
+    {
+      "jenis": "Tapcard",
+      "jabatan": "Staff",
+      "timestamp": "2023-12-01T08:00:00",
+      "id": 4
+    }
+  ],
+  "totals": {
+    "jenis": "Tapcard",
+    "jabatan": "Staff",
+    "timestamp": "2023-12-01T08:00:00"
+  }
+}

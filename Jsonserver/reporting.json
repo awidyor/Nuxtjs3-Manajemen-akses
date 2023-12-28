@@ -1,0 +1,11 @@
+{
+  "reporting": [
+    { "id": 1, "nama": "John Doe",  "jabatan": "Manager", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",  "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"  },
+    { "id": 2, "nama": "Jane Doe", "jabatan": "Supervisor", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",   "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"   },
+    { "id": 3, "nama": "Jono Doe", "jabatan": "OB", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",  "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"    },
+    { "id": 4, "nama": "Jane  hihi", "jabatan": "Supervisor", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",  "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"   },
+    { "id": 5, "nama": "Junue Doe", "jabatan": "Staff", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",  "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"     },
+    { "id": 6, "nama": "Suuu Doe", "jabatan": "Staff", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",   "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"   },
+    { "id": 7, "nama": "sii Doe",  "jabatan": "Manager", "jeniskelamin": "Perempuan", "tempatmasuk": "Merak",  "metodemasuk": "Tapcard", "metodekeluar": "Faceid", "waktumasuk": "9/22/2023 08:00 AM", "waktukeluar": "9/22/2023 05:00 PM"   }
+  ]
+}

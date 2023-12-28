@@ -1,0 +1,7 @@
+{
+    "totalMasuk": [
+        { "id": 1, "jenis": "Tapcard", "jabatan": "Staff", "timestamp": "2023-12-01T08:00:00" },
+        { "id": 2, "jenis": "FaceID", "jabatan": "Manager", "timestamp": "2023-12-01T09:30:00" }
+       
+      ]
+}
